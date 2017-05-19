@@ -15,6 +15,6 @@ check if the omp_installation files/presses is mounted into
 ## Test your installation
 
 *  http://localhost:8000/omp_rest/api/files/230?submissionId=43
-*  https://localhost:8000/omp_rest/api/backend/submissions
-*  https://localhost:8000/omp_rest/api/submissions/43
+*  http://localhost:8000/omp_rest/api/backend/submissions
+*  http://localhost:8000/omp_rest/api/submissions/43
 
